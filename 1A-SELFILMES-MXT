@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[B][COLOR white] FILMES DO REDE CANAIS[/COLOR][/B]</name>
+<name>[B][COLOR orange] FILMES DO REDE CANAIS[/COLOR][/B]</name>
 <link>NOLINK</link>
 <thumbnail>https://i.ibb.co/56dmhSj/Redecanais-2.png</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
@@ -13,7 +13,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B] LISTA 1[/B][/COLOR]</name>
+<name>[COLOR white][B] LISTA 1[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/2-REDCAN-MTX/main/1A1-LISFILM-1-MXT</externallink>
 <thumbnail>https://i.ibb.co/56dmhSj/Redecanais-2.png</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
@@ -25,7 +25,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B] LISTA 2[/B][/COLOR]</name>
+<name>[COLOR white][B] LISTA 2[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/4-REDCAN-NEWAD/main/1A2-LISTFILM-2-REDCAN</externallink>
 <thumbnail>https://i.ibb.co/56dmhSj/Redecanais-2.png</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
