@@ -1,4 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://redecanais.bz/imgs-videos/Filmes/Power.jpg" group-title=,[B][COLOR white]Power (Dublado) - 2020[/COLOR][/B]
-https://c8p4c5m7.stackpathcdn.net/RCFServer5/ondemand/PWER.mp4
+https://c8p4c5m7.stackpathcdn.com/RCFServer5/ondemand/PWER.mp4
+
+#EXTINF:-1 tvg-logo="https://redecanais.bz/imgs-videos/Filmes/Power.jpg" group-title="Lancamento",Power (Dublado) - 2020 - 1080p
+https://c8p4c5m7.stackpathcdn.com/RCFServer5/ondemand/PWER.mp4
