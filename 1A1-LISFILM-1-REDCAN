@@ -1,7 +1,15 @@
-#EXTM3U
+<item>
+<title>[COLOR white][B]teste - TO1 - 2019 - DUB - LEG[/B][/COLOR]</title>
 
-#EXTINF:-1 tvg-logo="https://redecanais.bz/imgs-videos/Filmes/Power.jpg" group-title=,[B][COLOR white]Power (Dublado) - 2020[/COLOR][/B]
-https://c8p4c5m7.stackpathcdn.com/RCFServer5/ondemand/PWER.mp4
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$nome=[COLOR orange][B]TRAILER[COLOR yellow] ->[[COLOR white] NOMEDASERIE[/B][/COLOR]</link>
 
-#EXTINF:-1 tvg-logo="https://redecanais.bz/imgs-videos/Filmes/Power.jpg" group-title="Lancamento",Power (Dublado) - 2020 - 1080p
-https://c8p4c5m7.stackpathcdn.com/RCFServer5/ondemand/PWER.mp4
+<link>https://c8p4c5m7.stackpathcdn.com/RCFServer5/ondemand/PWER.mp4$nome=[COLOR orange][B]T01E01[COLOR yellow] ->[COLOR white][B] NOMEDOEPISODIO [/B][/COLOR]</link>
+		
+<thumbnail> ICONE </thumbnail>
+<fanart> FUNDO </fanart>
+<info> SINOPSE </info>
+<genre> CRIME E DRAMA </genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
