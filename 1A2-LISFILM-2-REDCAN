@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-logo="https://redecanais.bz/imgs-videos/Filmes/High%20School%20Musical.jpg" group-title=,[B][COLOR white]High School Musical (Dublado) - 2006[/COLOR][/B]
+#EXTINF:-1 tvg-logo="https://redecanais.bz/imgs-videos/Filmes/High%20School%20Musical.jpg" group-title=,[B][COLOR white]High School Musical (Dublado) - 2006 a[/COLOR][/B]
 https://cdn90.azureedge.net/RCFServer4/ondemand/HGHSCHLMSCL.mp4
 
 #EXTINF:-1 tvg-logo="https://redecanais.bz/imgs-videos/Filmes/Fruitvale%20Station%20-%20A%20%C3%9Altima%20Parada.jpg" group-title=,[B][COLOR white]Fruitvale Station: A Última Parada (Dublado) - 2014[/COLOR][/B]
@@ -33,24 +33,34 @@ https://c8p4c5m7.stackpathcdn.net/RCFServer3/ondemand/DSNESTMRT2.mp4
 
 #EXTINF:-1 tvg-logo="https://redecanais.bz/imgs-videos/Legado/Batman%20-%20A%20Piada%20Mortal.jpg" group-title=,[B][COLOR white]Batman: A Piada Mortal (Dublado) - 2016[/COLOR][/B]
 https://c8p4c5m7.stackpathcdn.net/RCFServer3/ondemand/BATMAPIDMRT.mp4
+
 #EXTINF:-1 tvg-logo="https://redecanais.bz/imgs-videos/Legado/A%20S%C3%A9rie%20Divergente%20-%20Convergente.jpg" group-title=,[B][COLOR white]A Série Divergente: Convergente (Dublado) - 2016[/COLOR][/B]
 https://c8p4c5m7.stackpathcdn.net/RCFServer3/ondemand/ASREDVRGNTCNVGNT.mp4
+
 #EXTINF:-1 tvg-logo="https://redecanais.bz/imgs-videos/Legado/%C3%80%20Procura%20da%20Liberdade.jpg" group-title=,[B][COLOR white]À Procura da Liberdade (Dublado) - 2016[/COLOR][/B]
 https://c8p4c5m7.stackpathcdn.net/RCFServer3/ondemand/APRCURDLBRD.mp4
+
 #EXTINF:-1 tvg-logo="https://redecanais.bz/imgs-videos/Legado/Triplo%209.jpg" group-title=,[B][COLOR white]Triple 9 (Dublado) - 2016[/COLOR][/B]
 https://c8p4c5m7.stackpathcdn.net/RCFServer2/ondemand/TRPL9.mp4
+
 #EXTINF:-1 tvg-logo="https://redecanais.bz/imgs-videos/Legado/Watchmen%20Contos%20do%20Cargueiro%20Negro.jpg" group-title=,[B][COLOR white]Watchmen: Contos do Cargueiro Negro (Dublado) - 2010[/COLOR][/B]
 https://c8p4c5m7.stackpathcdn.net/RCFServer3/ondemand/WATCHMCNTSDCRG.mp4
+
 #EXTINF:-1 tvg-logo="https://redecanais.bz/imgs-videos/Filmes/Grandes%20Astros%20Superman.jpg" group-title=,[B][COLOR white]Grandes Astros: Superman (Dublado) - 2011[/COLOR][/B]
 https://c8p4c5m7.stackpathcdn.net/RCFServer3/ondemand/GRNDSASTRSPRMN.mp4
+
 #EXTINF:-1 tvg-logo="https://redecanais.bz/imgs-videos/Filmes/Superman%20e%20Batman%20-%20Inimigos%20P%C3%BAblicos.jpg" group-title=,[B][COLOR white]Superman / Batman: Inimigos Públicos (Dublado) - 2009[/COLOR][/B]
 https://c8p4c5m7.stackpathcdn.net/RCFServer3/ondemand/SPRMNEBTMNINMGSPBLCS.mp4
+
 #EXTINF:-1 tvg-logo="https://redecanais.bz/imgs-videos/Filmes/Os%20Jovens%20Tit%C3%A3s%20-%20Miss%C3%A3o%20T%C3%B3quio.jpg" group-title=,[B][COLOR white]Os Jovens Titãs: Missão Tóquio (Dublado) - 2006[/COLOR][/B]
 https://c8p4c5m7.stackpathcdn.net/RCFServer3/ondemand/OSJVNSTTNSMSTQ.mp4
+
 #EXTINF:-1 tvg-logo="https://redecanais.bz/imgs-videos/Filmes/Liga%20da%20Justi%C3%A7a%20-%20Ponto%20de%20Igni%C3%A7%C3%A3o.jpg" group-title=,[B][COLOR white]Liga da Justiça: Ponto de Ignição (Dublado) - 2013[/COLOR][/B]
 https://c8p4c5m7.stackpathcdn.net/RCFServer3/ondemand/LGDJSTCAPNTDIGN.mp4
+
 #EXTINF:-1 tvg-logo="https://redecanais.bz/imgs-videos/Filmes/Liga%20da%20Justi%C3%A7a%20-%20Crise%20em%20Duas%20Terras.jpg" group-title=,[B][COLOR white]Liga da Justiça: Crise em Duas Terras (Dublado) - 2010[/COLOR][/B]
 https://c8p4c5m7.stackpathcdn.net/RCFServer3/ondemand/LGDJSTCACRSEDUSTRS.mp4
+
 #EXTINF:-1 tvg-logo="https://redecanais.bz/imgs-videos/Filmes/Liga%20da%20Justi%C3%A7a%20-%20A%20Nova%20Fronteira.jpg" group-title=,[B][COLOR white]Liga da Justiça: A Nova Fronteira (Dublado) - 2008[/COLOR][/B]
 https://c8p4c5m7.stackpathcdn.net/RCFServer3/ondemand/LGDJSTCANVFRNT.mp4
 #EXTINF:-1 tvg-logo="https://redecanais.bz/imgs-videos/Filmes/Lanterna%20Verde%20-%20Primeiro%20Voo.jpg" group-title=,[B][COLOR white]Lanterna Verde: Primeiro Voo (Dublado) - 2009[/COLOR][/B]
