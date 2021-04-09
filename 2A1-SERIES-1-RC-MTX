@@ -9,7 +9,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
 
 <item>
-<title>[COLOR white][B]Lupin - T01 - 2021 - Dublado[/B][/COLOR]</title>
+<title>[COLOR white][B]Lupin - T01 - 2021[/B][/COLOR]</title>
 
 <link>plugin://plugin.video.youtube/play/?video_id=FoiQ-Xr8NDI$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Lupin[/B][/COLOR]</link>
 
@@ -27,7 +27,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR white][B]WandaVision T01 - 2021 - Dublado[/B][/COLOR]</title>
+<title>[COLOR white][B]WandaVision T01 - 2021[/B][/COLOR]</title>
 
 <link>plugin://plugin.video.youtube/play/?video_id=NZxfnJt9vKo$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]WandaVision[/B][/COLOR]</link>
 
@@ -50,11 +50,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>		
-<title>[COLOR white][B]Expresso do Amanhã - 2020 - Dublado[/B][/COLOR]</title>		
+<title>[COLOR white][B]Expresso do Amanhã - 2020[/B][/COLOR]</title>		
 		
 <link>plugin://plugin.video.youtube/play/?video_id=zstihByJe9I$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Expresso do Amanhã[/B][/COLOR]</link>		
 		
-<link>NOLINK$nome=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR orange] Temporada 01 completa - DUB[/B][/COLOR]</link>		
+<link>NOLINK$nome=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR orange] Temporada 01 - DUB[/B][/COLOR]</link>		
 		
 <link>https://workstation.canais.ink/RCServer14/ondemand/EXPRSODOAMNHAT01EP01.mp4$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Primeiro, O Clima Mudou [/B][/COLOR]</link>		
 <link>https://workstation.canais.ink/RCServer14/ondemand/EXPRSODOAMNHAT01EP02.mp4$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Preparem-se! [/B][/COLOR]</link>		
@@ -67,7 +67,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>https://workstation.canais.ink/RCServer14/ondemand/EXPRSODOAMNHAT01EP09.mp4$nome=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]O Trem Exigia Sangue [/B][/COLOR]</link>		
 <link>https://workstation.canais.ink/RCServer14/ondemand/EXPRSODOAMNHAT01EP10.mp4$nome=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]994 Vagoes[/B][/COLOR]</link>		
 		
-<link>NOLINK$nome=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR orange] Temporada 01 completa - DUB[/B][/COLOR]</link>		
+<link>NOLINK$nome=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR orange] Temporada 01 - DUB[/B][/COLOR]</link>		
 		
 <link>https://workstation.canais.ink/RCServer15/ondemand/EXPRSODOAMNHAT02EP01.mp4$nome=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]A Hora dos Dois Motores [/B][/COLOR]</link>		
 <link>https://workstation.canais.ink/RCServer15/ondemand/EXPRSODOAMNHAT02EP02.mp4$nome=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]A Coisa Esta Ficando Quente [/B][/COLOR]</link>		
@@ -83,7 +83,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
 
 <item>
-<title>[COLOR white][B]O Gambito da Rainha - T01 - 2020 - Dublado[/B][/COLOR]</title>
+<title>[COLOR white][B]O Gambito da Rainha - T01 - 2020[/B][/COLOR]</title>
 
 <link>plugin://plugin.video.youtube/play/?video_id=cnqV3wsZlpo$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Gambito da Rainha[/B][/COLOR]</link>
 
@@ -104,11 +104,60 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>		
-<title>[COLOR white][B]O Justiceiro - T01 a T02 - 2017 - Dublado[/B][/COLOR]</title>
+<title>[COLOR white][B]Manifest: O Mistério do Voo 828 - 2018[/B][/COLOR]</title>		
+		
+<link>plugin://plugin.video.youtube/play/?video_id=kJVhS7Doj1U$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Manifest: O Misterio do Voo 828[/B][/COLOR]</link>		
+
+<link>NOLINK$$lsname=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR orange] Temporada 01 - DUB[/B][/COLOR]</link>
+
+<link>https://workstation.canais.ink/RCServer07/ondemand/MNFSTT01EP01.mp4$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Piloto [/B][/COLOR]</link>		
+<link>https://workstation.canais.ink/RCServer07/ondemand/MNFSTT01EP02.mp4$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Reintegrasao [/B][/COLOR]</link>		
+<link>https://workstation.canais.ink/RCServer07/ondemand/MNFSTT01EP03.mp4$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Turbulencia [/B][/COLOR]</link>		
+<link>https://workstation.canais.ink/RCServer07/ondemand/MNFSTT01EP04.mp4$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Bagagem Nao Reclamada [/B][/COLOR]</link>		
+<link>https://workstation.canais.ink/RCServer07/ondemand/MNFSTT01EP05.mp4$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Voo de Conexao [/B][/COLOR]</link>		
+<link>https://workstation.canais.ink/RCServer07/ondemand/MNFSTT01EP06.mp4$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Fora do Radar [/B][/COLOR]</link>		
+<link>https://workstation.canais.ink/RCServer07/ondemand/MNFSTT01EP07.mp4$nome=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]S.N.A.F.U. [/B][/COLOR]</link>		
+<link>https://workstation.canais.ink/RCServer07/ondemand/MNFSTT01EP08.mp4$nome=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Beco Sem Saida [/B][/COLOR]</link>		
+<link>https://workstation.canais.ink/RCServer07/ondemand/MNFSTT01EP09.mp4$nome=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Calculo Morto [/B][/COLOR]</link>		
+<link>https://workstation.canais.ink/RCServer07/ondemand/MNFSTT01EP10.mp4$nome=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Vento Cruzado [/B][/COLOR]</link>		
+<link>https://workstation.canais.ink/RCServer07/ondemand/MNFSTT01EP11.mp4$nome=[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white]Rastros [/B][/COLOR]</link>		
+<link>https://workstation.canais.ink/RCServer07/ondemand/MNFSTT01EP12.mp4$nome=[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white]Ponto de Fuga [/B][/COLOR]</link>		
+<link>https://workstation.canais.ink/RCServer07/ondemand/MNFSTT01EP13.mp4$nome=[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white]Liberado para Abordagem [/B][/COLOR]</link>		
+<link>https://workstation.canais.ink/RCServer07/ondemand/MNFSTT01EP14.mp4$nome=[COLOR orange][B]T01E14[COLOR yellow] -> [COLOR white]Atualizar [/B][/COLOR]</link>		
+<link>https://workstation.canais.ink/RCServer07/ondemand/MNFSTT01EP15.mp4$nome=[COLOR orange][B]T01E15[COLOR yellow] -> [COLOR white]Aterrissagem Forzada [/B][/COLOR]</link>		
+<link>https://workstation.canais.ink/RCServer07/ondemand/MNFSTT01EP16.mp4$nome=[COLOR orange][B]T01E16[COLOR yellow] -> [COLOR white]Hora Prevista de Partida [/B][/COLOR]</link>		
+		
+<link>NOLINK$$lsname=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR orange] Temporada 02 - DUB[/B][/COLOR]</link>
+	
+<link>https://workstation.canais.ink/RCServer15/ondemand/MNFSTT02EP01.mp4$nome=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]Apertem Os Cintos [/B][/COLOR]</link>		
+<link>https://workstation.canais.ink/RCServer15/ondemand/MNFSTT02EP02.mp4$nome=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]Na Pista [/B][/COLOR]</link>		
+<link>https://workstation.canais.ink/RCServer15/ondemand/MNFSTT02EP03.mp4$nome=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]Falso Horizonte [/B][/COLOR]</link>		
+<link>https://workstation.canais.ink/RCServer15/ondemand/MNFSTT02EP04.mp4$nome=[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]Caixa-Preta [/B][/COLOR]</link>		
+<link>https://workstation.canais.ink/RCServer15/ondemand/MNFSTT02EP05.mp4$nome=[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]Voo Coordenado [/B][/COLOR]</link>		
+<link>https://workstation.canais.ink/RCServer15/ondemand/MNFSTT02EP06.mp4$nome=[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]Viagem de Volta [/B][/COLOR]</link>		
+<link>https://workstation.canais.ink/RCServer15/ondemand/MNFSTT02EP07.mp4$nome=[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white]Saida de Emergencia [/B][/COLOR]</link>		
+<link>https://workstation.canais.ink/RCServer15/ondemand/MNFSTT02EP08.mp4$nome=[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white]Siga em Frente [/B][/COLOR]</link>		
+<link>https://workstation.canais.ink/RCServer15/ondemand/MNFSTT02EP09.mp4$nome=[COLOR orange][B]T02E09[COLOR yellow] -> [COLOR white]Garrafas De Aviao [/B][/COLOR]</link>		
+<link>https://workstation.canais.ink/RCServer15/ondemand/MNFSTT02EP10.mp4$nome=[COLOR orange][B]T02E10[COLOR yellow] -> [COLOR white]Desvio Do Curso [/B][/COLOR]</link>		
+<link>https://workstation.canais.ink/RCServer15/ondemand/MNFSTT02EP11.mp4$nome=[COLOR orange][B]T02E11[COLOR yellow] -> [COLOR white]Menores Desacompanhados [/B][/COLOR]</link>		
+<link>https://workstation.canais.ink/RCServer15/ondemand/MNFSTT02EP12.mp4$nome=[COLOR orange][B]T02E12[COLOR yellow] -> [COLOR white]Indicativo de Chamada [/B][/COLOR]</link>		
+<link>https://workstation.canais.ink/RCServer15/ondemand/MNFSTT02EP13.mp4$nome=[COLOR orange][B]T02E13[COLOR yellow] -> [COLOR white]Condisoes de Formasao de Gelo [/B][/COLOR]</link>		
+		
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lFPHeAedYwKpF1iW83qKXtPoX9B.jpg</thumbnail>		
+<fanart>https://www.themoviedb.org/t/p/original/hTIGrZkH9k8flGOS1yo7esFZEqK.jpg</fanart>		
+<info>Um voo aparentemente normal chega ao seu destino cerca de três horas após a partida, passando por algumas turbulências. No entanto, ao desembarcarem, os passageiros descobrem que foram dados como mortos e se passaram cinco anos desde a decolagem.</info>		
+<genre>DRAMA</genre>  		
+</item>		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+		
+
+<item>		
+<title>[COLOR white][B]O Justiceiro - T01 a T02 - 2017[/B][/COLOR]</title>
 
 <link>plugin://plugin.video.youtube/play/?video_id=W_N0j6GO_D0$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Justiceiro[/B][/COLOR]</link>
 	
-<link>NOLINK$nome=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR orange] Temporada 01 completa - DUB[/B][/COLOR]</link>		
+<link>NOLINK$nome=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR orange] Temporada 01 - DUB[/B][/COLOR]</link>		
 		
 <link>https://workstation.canais.ink/RCServer13/ondemand/OJSTCROT01EP01.mp4$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white] Tres da Madrugada [/B][/COLOR]</link>		
 <link>https://workstation.canais.ink/RCServer13/ondemand/OJSTCROT01EP02.mp4$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white] Dois Homens Mortos [/B][/COLOR]</link>		
@@ -124,7 +173,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>https://workstation.canais.ink/RCServer13/ondemand/OJSTCROT01EP12.mp4$nome=[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white] Lar [/B][/COLOR]</link>		
 <link>https://workstation.canais.ink/RCServer13/ondemand/OJSTCROT01EP13.mp4$nome=[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white] Memento Mori [/B][/COLOR]</link>		
 		
-<link>NOLINK$nome=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR orange] Temporada 02 completa - DUB[/B][/COLOR]</link>		
+<link>NOLINK$nome=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR orange] Temporada 02 - DUB[/B][/COLOR]</link>		
 		
 <link>https://workstation.canais.ink/RCServer06/ondemand/OJSTCROT02EP01.mp4$nome=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white] Briga de Bar [/B][/COLOR]</link>		
 <link>https://workstation.canais.ink/RCServer06/ondemand/OJSTCROT02EP02.mp4$nome=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white] Lutar ou Fugir [/B][/COLOR]</link>		
@@ -149,7 +198,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
 
 <item>		
-<title>[COLOR white][B]Frontier - 2016 - Dublado[/B][/COLOR]</title>		
+<title>[COLOR white][B]Frontier - 2016[/B][/COLOR]</title>		
 		
 <link>plugin://plugin.video.youtube/play/?video_id=W-FL-d4wKkI$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Frontier[/B][/COLOR]</link>		
 		
@@ -162,7 +211,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>https://workstation.canais.ink/RCServer08/ondemand/FRNTRT01EP05.mp4$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]O Discipulo [/B][/COLOR]</link>		
 <link>https://workstation.canais.ink/RCServer08/ondemand/FRNTRT01EP06.mp4$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Obsessao [/B][/COLOR]</link>		
 		
-<link>NOLINK$nome=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR orange] Temporada 01 completa - DUB[/B][/COLOR]</link>		
+<link>NOLINK$nome=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR orange] Temporada 01 - DUB[/B][/COLOR]</link>		
 		
 <link>https://workstation.canais.ink/RCServer08/ondemand/FRNTRT02EP01.mp4$nome=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]Cabeza A Premio [/B][/COLOR]</link>		
 <link>https://workstation.canais.ink/RCServer08/ondemand/FRNTRT02EP02.mp4$nome=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]Procurado [/B][/COLOR]</link>		
@@ -171,7 +220,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>https://workstation.canais.ink/RCServer08/ondemand/FRNTRT02EP05.mp4$nome=[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]Disparo De Canhao [/B][/COLOR]</link>		
 <link>https://workstation.canais.ink/RCServer08/ondemand/FRNTRT02EP06.mp4$nome=[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]O Retorno Do Lobo [/B][/COLOR]</link>		
 		
-<link>NOLINK$nome=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR orange] Temporada 01 completa - DUB[/B][/COLOR]</link>		
+<link>NOLINK$nome=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR orange] Temporada 01 - DUB[/B][/COLOR]</link>		
 		
 <link>https://workstation.canais.ink/RCServer08/ondemand/FRNTRT03EP01.mp4$nome=[COLOR orange][B]T03E01[COLOR yellow] -> [COLOR white]Caminho Obscuro [/B][/COLOR]</link>		
 <link>https://workstation.canais.ink/RCServer08/ondemand/FRNTRT03EP02.mp4$nome=[COLOR orange][B]T03E02[COLOR yellow] -> [COLOR white]O Fim Do Mundo [/B][/COLOR]</link>		
@@ -189,11 +238,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
 
 <item>		
-<title>[COLOR white][B]CSI: Investigação Criminal - T01 a T16 - 2000 -Dublado[/B][/COLOR]</title>
+<title>[COLOR white][B]CSI: Investigação Criminal - T01 a T16 - 2000[/B][/COLOR]</title>
 
 <link>plugin://plugin.video.youtube/play/?video_id=YScR9d9Navs$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]CSI: Investigação Criminal[/B][/COLOR]</link>
 
-<link>NOLINK$nome=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR orange] Temporada 01 completa - DUB[/B][/COLOR]</link>		
+<link>NOLINK$nome=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR orange] Temporada 01 - DUB[/B][/COLOR]</link>		
 		
 <link>https://workstation.canais.ink/RCServer11/ondemand/CSILAT01EP01.mp4$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white] Piloto [/B][/COLOR]</link>		
 <link>https://workstation.canais.ink/RCServer11/ondemand/CSILAT01EP02.mp4$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white] Mudanza Fria [/B][/COLOR]</link>		
@@ -219,7 +268,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>https://workstation.canais.ink/RCServer11/ondemand/CSILAT01EP22.mp4$nome=[COLOR orange][B]T01E22[COLOR yellow] -> [COLOR white] Dia de Avaliasao [/B][/COLOR]</link>		
 <link>https://workstation.canais.ink/RCServer11/ondemand/CSILAT01EP23.mp4$nome=[COLOR orange][B]T01E23[COLOR yellow] -> [COLOR white] O Estrangulador Strip [/B][/COLOR]</link>		
 		
-<link>NOLINK$nome=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR orange] Temporada 02 completa - DUB[/B][/COLOR]</link>		
+<link>NOLINK$nome=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR orange] Temporada 02 - DUB[/B][/COLOR]</link>		
 		
 <link>https://workstation.canais.ink/RCServer11/ondemand/CSILAT02EP01.mp4$nome=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white] A Picada do Escorpiao [/B][/COLOR]</link>		
 <link>https://workstation.canais.ink/RCServer11/ondemand/CSILAT02EP02.mp4$nome=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white] Teoria do Caos [/B][/COLOR]</link>		
@@ -245,7 +294,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>https://workstation.canais.ink/RCServer11/ondemand/CSILAT02EP22.mp4$nome=[COLOR orange][B]T02E22[COLOR yellow] -> [COLOR white] Cruzando Jurisdizoes [/B][/COLOR]</link>		
 <link>https://workstation.canais.ink/RCServer11/ondemand/CSILAT02EP23.mp4$nome=[COLOR orange][B]T02E23[COLOR yellow] -> [COLOR white] Artista com Fome [/B][/COLOR]</link>		
 		
-<link>NOLINK$nome=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR orange] Temporada 03 completa - DUB[/B][/COLOR]</link>		
+<link>NOLINK$nome=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR orange] Temporada 03 - DUB[/B][/COLOR]</link>		
 		
 <link>https://workstation.canais.ink/RCServer11/ondemand/CSILAT03EP01.mp4$nome=[COLOR orange][B]T03E01[COLOR yellow] -> [COLOR white] Jogos de Azar [/B][/COLOR]</link>		
 <link>https://workstation.canais.ink/RCServer11/ondemand/CSILAT03EP02.mp4$nome=[COLOR orange][B]T03E02[COLOR yellow] -> [COLOR white] Acusasoes [/B][/COLOR]</link>		
@@ -271,7 +320,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>https://workstation.canais.ink/RCServer11/ondemand/CSILAT03EP22.mp4$nome=[COLOR orange][B]T03E22[COLOR yellow] -> [COLOR white] Acerto de Contas [/B][/COLOR]</link>		
 <link>https://workstation.canais.ink/RCServer11/ondemand/CSILAT03EP23.mp4$nome=[COLOR orange][B]T03E23[COLOR yellow] -> [COLOR white] Segredo de Sangue [/B][/COLOR]</link>		
 		
-<link>NOLINK$nome=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR orange] Temporada 04 completa - DUB[/B][/COLOR]</link>		
+<link>NOLINK$nome=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR orange] Temporada 04 - DUB[/B][/COLOR]</link>		
 		
 <link>https://workstation.canais.ink/RCServer11/ondemand/CSILAT04EP01.mp4$nome=[COLOR orange][B]T04E01[COLOR yellow] -> [COLOR white] Duplo Homicidio (Parte 1) [/B][/COLOR]</link>		
 <link>https://workstation.canais.ink/RCServer11/ondemand/CSILAT04EP02.mp4$nome=[COLOR orange][B]T04E02[COLOR yellow] -> [COLOR white] O Suspeito (Parte 2) [/B][/COLOR]</link>		
@@ -297,7 +346,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>https://workstation.canais.ink/RCServer11/ondemand/CSILAT04EP22.mp4$nome=[COLOR orange][B]T04E22[COLOR yellow] -> [COLOR white] Apostas Encerradas [/B][/COLOR]</link>		
 <link>https://workstation.canais.ink/RCServer11/ondemand/CSILAT04EP23.mp4$nome=[COLOR orange][B]T04E23[COLOR yellow] -> [COLOR white] Irmaos Sangue [/B][/COLOR]</link>		
 		
-<link>NOLINK$nome=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR orange] Temporada 05 completa - DUB[/B][/COLOR]</link>		
+<link>NOLINK$nome=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR orange] Temporada 05 - DUB[/B][/COLOR]</link>		
 		
 <link>https://workstation.canais.ink/RCServer11/ondemand/CSILAT05EP01.mp4$nome=[COLOR orange][B]T05E01[COLOR yellow] -> [COLOR white] Viva Las Vegas [/B][/COLOR]</link>		
 <link>https://workstation.canais.ink/RCServer11/ondemand/CSILAT05EP02.mp4$nome=[COLOR orange][B]T05E02[COLOR yellow] -> [COLOR white] Desperdisado [/B][/COLOR]</link>		
@@ -324,7 +373,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>https://workstation.canais.ink/RCServer11/ondemand/CSILAT05EP23.mp4$nome=[COLOR orange][B]T05E23[COLOR yellow] -> [COLOR white] Congelado [/B][/COLOR]</link>		
 <link>https://workstation.canais.ink/RCServer11/ondemand/CSILAT05EP24.mp4$nome=[COLOR orange][B]T05E24-25[COLOR yellow] -> [COLOR white] Perigo a Sete Palmos [/B][/COLOR]</link>		
 		
-<link>NOLINK$nome=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR orange] Temporada 06 completa - DUB[/B][/COLOR]</link>		
+<link>NOLINK$nome=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR orange] Temporada 06 - DUB[/B][/COLOR]</link>		
 		
 <link>https://workstation.canais.ink/RCServer11/ondemand/CSILAT06EP01.mp4$nome=[COLOR orange][B]T06E01[COLOR yellow] -> [COLOR white] Corpos em Movimento [/B][/COLOR]</link>		
 <link>https://workstation.canais.ink/RCServer11/ondemand/CSILAT06EP02.mp4$nome=[COLOR orange][B]T06E02[COLOR yellow] -> [COLOR white] Serviso de Quarto [/B][/COLOR]</link>		
@@ -351,7 +400,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>https://workstation.canais.ink/RCServer11/ondemand/CSILAT06EP23.mp4$nome=[COLOR orange][B]T06E23[COLOR yellow] -> [COLOR white] Bang Bang (Parte 1) [/B][/COLOR]</link>		
 <link>https://workstation.canais.ink/RCServer11/ondemand/CSILAT06EP24.mp4$nome=[COLOR orange][B]T06E24[COLOR yellow] -> [COLOR white] Morte nos Trilhos (Parte 2) [/B][/COLOR]</link>		
 		
-<link>NOLINK$nome=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR orange] Temporada 07 completa - DUB[/B][/COLOR]</link>		
+<link>NOLINK$nome=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR orange] Temporada 07 - DUB[/B][/COLOR]</link>		
 		
 <link>https://workstation.canais.ink/RCServer11/ondemand/CSILAT07EP01.mp4$nome=[COLOR orange][B]T07E01[COLOR yellow] -> [COLOR white] Feitos Para Matar (Parte 1) [/B][/COLOR]</link>		
 <link>https://workstation.canais.ink/RCServer11/ondemand/CSILAT07EP02.mp4$nome=[COLOR orange][B]T07E02[COLOR yellow] -> [COLOR white] Feitos Para Matar (Parte 2) [/B][/COLOR]</link>		
@@ -378,7 +427,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>https://workstation.canais.ink/RCServer11/ondemand/CSILAT07EP23.mp4$nome=[COLOR orange][B]T07E23[COLOR yellow] -> [COLOR white] O bom, o mal e a Dominatrix [/B][/COLOR]</link>		
 <link>https://workstation.canais.ink/RCServer11/ondemand/CSILAT07EP24.mp4$nome=[COLOR orange][B]T07E24[COLOR yellow] -> [COLOR white] Boneca Viva (Parte 1) [/B][/COLOR]</link>		
 		
-<link>NOLINK$nome=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR orange] Temporada 08 completa - DUB[/B][/COLOR]</link>		
+<link>NOLINK$nome=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR orange] Temporada 08 - DUB[/B][/COLOR]</link>		
 		
 <link>https://workstation.canais.ink/RCServer11/ondemand/CSILAT08EP01.mp4$nome=[COLOR orange][B]T08E01[COLOR yellow] -> [COLOR white] Onde Esta Sara? (Parte 2) [/B][/COLOR]</link>		
 <link>https://workstation.canais.ink/RCServer11/ondemand/CSILAT08EP02.mp4$nome=[COLOR orange][B]T08E02[COLOR yellow] -> [COLOR white] A La Carte [/B][/COLOR]</link>		
@@ -398,7 +447,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>https://workstation.canais.ink/RCServer11/ondemand/CSILAT08EP16.mp4$nome=[COLOR orange][B]T08E16[COLOR yellow] -> [COLOR white] Duas Mortes e Meia [/B][/COLOR]</link>		
 <link>https://workstation.canais.ink/RCServer11/ondemand/CSILAT08EP17.mp4$nome=[COLOR orange][B]T08E17[COLOR yellow] -> [COLOR white] Para Gedda (Parte 1) [/B][/COLOR]</link>		
 		
-<link>NOLINK$nome=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR orange] Temporada 09 completa - DUB[/B][/COLOR]</link>		
+<link>NOLINK$nome=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR orange] Temporada 09 - DUB[/B][/COLOR]</link>		
 		
 <link>https://workstation.canais.ink/RCServer11/ondemand/CSILAT09EP01.mp4$nome=[COLOR orange][B]T09E01[COLOR yellow] -> [COLOR white] Para Warrick (Parte 2) [/B][/COLOR]</link>		
 <link>https://workstation.canais.ink/RCServer11/ondemand/CSILAT09EP02.mp4$nome=[COLOR orange][B]T09E02[COLOR yellow] -> [COLOR white] O Lugar Feliz [/B][/COLOR]</link>		
@@ -425,7 +474,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>https://workstation.canais.ink/RCServer11/ondemand/CSILAT09EP23.mp4$nome=[COLOR orange][B]T09E23[COLOR yellow] -> [COLOR white] Paraiso do Motoqueiro [/B][/COLOR]</link>		
 <link>https://workstation.canais.ink/RCServer11/ondemand/CSILAT09EP24.mp4$nome=[COLOR orange][B]T09E24[COLOR yellow] -> [COLOR white] Tudo Dentro [/B][/COLOR]</link>		
 		
-<link>NOLINK$nome=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR orange] Temporada 10 completa - DUB[/B][/COLOR]</link>		
+<link>NOLINK$nome=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR orange] Temporada 10 - DUB[/B][/COLOR]</link>		
 		
 <link>https://workstation.canais.ink/RCServer11/ondemand/CSILAT10EP01.mp4$nome=[COLOR orange][B]T10E01[COLOR yellow] -> [COLOR white] Negócios de Familia [/B][/COLOR]</link>		
 <link>https://workstation.canais.ink/RCServer11/ondemand/CSILAT10EP02.mp4$nome=[COLOR orange][B]T10E02[COLOR yellow] -> [COLOR white] Cidade Fantasma [/B][/COLOR]</link>		
@@ -451,7 +500,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>https://workstation.canais.ink/RCServer11/ondemand/CSILAT10EP22.mp4$nome=[COLOR orange][B]T10E22[COLOR yellow] -> [COLOR white] Dr.Quem (Parte 1) [/B][/COLOR]</link>		
 <link>https://workstation.canais.ink/RCServer11/ondemand/CSILAT10EP23.mp4$nome=[COLOR orange][B]T10E23[COLOR yellow] -> [COLOR white] Carne de Jekyll (Parte 2) [/B][/COLOR]</link>		
 		
-<link>NOLINK$nome=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR orange] Temporada 11 completa - DUB[/B][/COLOR]</link>		
+<link>NOLINK$nome=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR orange] Temporada 11 - DUB[/B][/COLOR]</link>		
 		
 <link>https://workstation.canais.ink/RCServer11/ondemand/CSILAT11EP01.mp4$nome=[COLOR orange][B]T11E01[COLOR yellow] -> [COLOR white] Ondas de Choque (Parte 3) [/B][/COLOR]</link>		
 <link>https://workstation.canais.ink/RCServer11/ondemand/CSILAT11EP02.mp4$nome=[COLOR orange][B]T11E02[COLOR yellow] -> [COLOR white] Piscina de Tubarao [/B][/COLOR]</link>		
@@ -476,7 +525,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>https://workstation.canais.ink/RCServer11/ondemand/CSILAT11EP21.mp4$nome=[COLOR orange][B]T11E21[COLOR yellow] -> [COLOR white] Violoncelo e Adeus [/B][/COLOR]</link>		
 <link>https://workstation.canais.ink/RCServer11/ondemand/CSILAT11EP22.mp4$nome=[COLOR orange][B]T11E22[COLOR yellow] -> [COLOR white] Em Uma Casa, Muito Escura [/B][/COLOR]</link>		
 		
-<link>NOLINK$nome=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR orange] Temporada 12 completa - DUB[/B][/COLOR]</link>		
+<link>NOLINK$nome=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR orange] Temporada 12 - DUB[/B][/COLOR]</link>		
 		
 <link>https://workstation.canais.ink/RCServer11/ondemand/CSILAT12EP01.mp4$nome=[COLOR orange][B]T12E01[COLOR yellow] -> [COLOR white] Ondas de Choque (Parte 3) [/B][/COLOR]</link>		
 <link>https://workstation.canais.ink/RCServer11/ondemand/CSILAT12EP02.mp4$nome=[COLOR orange][B]T12E02[COLOR yellow] -> [COLOR white] Piscina de Tubarao [/B][/COLOR]</link>		
@@ -501,7 +550,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>https://workstation.canais.ink/RCServer11/ondemand/CSILAT12EP21.mp4$nome=[COLOR orange][B]T12E21[COLOR yellow] -> [COLOR white] Violoncelo e Adeus [/B][/COLOR]</link>		
 <link>https://workstation.canais.ink/RCServer11/ondemand/CSILAT12EP22.mp4$nome=[COLOR orange][B]T12E22[COLOR yellow] -> [COLOR white] Em Uma Casa, Muito Escura [/B][/COLOR]</link>		
 		
-<link>NOLINK$nome=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR orange] Temporada 03 completa - DUB[/B][/COLOR]</link>		
+<link>NOLINK$nome=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR orange] Temporada 03 - DUB[/B][/COLOR]</link>		
 		
 <link>https://workstation.canais.ink/RCServer11/ondemand/CSILAT13EP01.mp4$nome=[COLOR orange][B]T13E01[COLOR yellow] -> [COLOR white] Carma para Queimar [/B][/COLOR]</link>		
 <link>https://workstation.canais.ink/RCServer11/ondemand/CSILAT13EP02.mp4$nome=[COLOR orange][B]T13E02[COLOR yellow] -> [COLOR white] Codigo Azul Placa Espacial [/B][/COLOR]</link>		
@@ -526,7 +575,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>https://workstation.canais.ink/RCServer11/ondemand/CSILAT13EP21.mp4$nome=[COLOR orange][B]T13E21[COLOR yellow] -> [COLOR white] Fantasmas do Passado [/B][/COLOR]</link>		
 <link>https://workstation.canais.ink/RCServer11/ondemand/CSILAT13EP22.mp4$nome=[COLOR orange][B]T13E22[COLOR yellow] -> [COLOR white] Pele no Jogo [/B][/COLOR]</link>		
 		
-<link>NOLINK$nome=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR orange] Temporada 14 completa - DUB[/B][/COLOR]</link>		
+<link>NOLINK$nome=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR orange] Temporada 14 - DUB[/B][/COLOR]</link>		
 		
 <link>https://workstation.canais.ink/RCServer11/ondemand/CSILAT14EP01.mp4$nome=[COLOR orange][B]T14E01[COLOR yellow] -> [COLOR white] O Diabo e D.B. Russell [/B][/COLOR]</link>		
 <link>https://workstation.canais.ink/RCServer11/ondemand/CSILAT14EP02.mp4$nome=[COLOR orange][B]T14E02[COLOR yellow] -> [COLOR white] Pegue o Dinheiro e Corra [/B][/COLOR]</link>		
@@ -551,7 +600,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>https://workstation.canais.ink/RCServer11/ondemand/CSILAT14EP21.mp4$nome=[COLOR orange][B]T14E21[COLOR yellow] -> [COLOR white] Kitty [/B][/COLOR]</link>		
 <link>https://workstation.canais.ink/RCServer11/ondemand/CSILAT14EP22.mp4$nome=[COLOR orange][B]T14E22[COLOR yellow] -> [COLOR white] Morto em Seu Caminho [/B][/COLOR]</link>		
 		
-<link>NOLINK$nome=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR orange] Temporada 15 completa - DUB[/B][/COLOR]</link>		
+<link>NOLINK$nome=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR orange] Temporada 15 - DUB[/B][/COLOR]</link>		
 		
 <link>https://workstation.canais.ink/RCServer11/ondemand/CSILAT15EP01.mp4$nome=[COLOR orange][B]T15E01[COLOR yellow] -> [COLOR white] O Efeito CSI [/B][/COLOR]</link>		
 <link>https://workstation.canais.ink/RCServer11/ondemand/CSILAT15EP02.mp4$nome=[COLOR orange][B]T15E02[COLOR yellow] -> [COLOR white] Estraga Prazeres [/B][/COLOR]</link>		
@@ -572,7 +621,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>https://workstation.canais.ink/RCServer11/ondemand/CSILAT15EP17.mp4$nome=[COLOR orange][B]T15E17[COLOR yellow] -> [COLOR white] Sob a Minha Pele [/B][/COLOR]</link>		
 <link>https://workstation.canais.ink/RCServer11/ondemand/CSILAT15EP18.mp4$nome=[COLOR orange][B]T15E18[COLOR yellow] -> [COLOR white] O Fim de Jogo [/B][/COLOR]</link>		
 		
-<link>NOLINK$nome=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR orange] Temporada 16 completa - DUB[/B][/COLOR]</link>		
+<link>NOLINK$nome=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR orange] Temporada 16 - DUB[/B][/COLOR]</link>		
 		
 <link>https://workstation.canais.ink/RCServer11/ondemand/CSILAT16EP01.mp4$nome=[COLOR orange][B]T16E01[COLOR yellow] -> [COLOR white] Imortalidade (Parte 1) [/B][/COLOR]</link>		
 <link>https://workstation.canais.ink/RCServer11/ondemand/CSILAT16EP02.mp4$nome=[COLOR orange][B]T16E02[COLOR yellow] -> [COLOR white] Imortalidade (Parte 2) [/B][/COLOR]</link>		
