@@ -1,5 +1,5 @@
-import rcresolver
-
-url = "https://redecanais.cloud/os-novos-mutantes-dublado-2020-1080p_ffcf7b87c.html"
-stream = rcresolver.resolve(url)
-print(stream)
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WVkk9yy/vip.png",[COLOR orange][B]SELECIONE UM ITEM ABAIXO7[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WVkk9yy/vip.png" ,[COLOR orange][B]LS-TVs - SERVER LS [COLOR yellow] -> [COLOR white]A&E[/B][/COLOR]
+https://redecanais.cloud/os-novos-mutantes-dublado-2020-1080p_ffcf7b87c.html
