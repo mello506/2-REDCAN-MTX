@@ -1,7 +1,7 @@
 <item>
 <title>[COLOR white][B]RC2[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=dglqGGyWbVo$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]1917[/B][/COLOR]</link>
-<link>stream = rcresolver.resolve/url = "https://redecanais.cloud/os-novos-mutantes-dublado-2020-1080p_ffcf7b87c.html"$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]TESTE[/B][/COLOR]</link>
+<link>stream = rcresolver.resolve/url=https://redecanais.re/the-walking-dead-9a-temporada-episodio-02-a-ponte_452a14138.html$nome=[COLOR orange][B]teste[COLOR yellow] -> [COLOR white][B]TESTE[/B][/COLOR]</link>
 
 <link>http://tapetes.cf:8080/d/RedeCanais/RedeCanais/RCFServer5/ondemand/JNGLCRSAMLDCNSCNFSDSLV.mp4$nome=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedoFilmeMP4 - DUB[/B][/COLOR]</link>
 <link>https://redecanais.cloud/os-novos-mutantes-dublado-2020-1080p_ffcf7b87c.mp4$nome=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedoFilmeM3U8 - DUB[/B][/COLOR]</link>
