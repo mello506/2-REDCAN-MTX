@@ -3,8 +3,8 @@
 <link>plugin://plugin.video.youtube/play/?video_id=dglqGGyWbVo$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]1917[/B][/COLOR]</link>
 <link>script.module.rcresolver/?video_id=http://tapetes.cf:8080/d/RedeCanais/RedeCanais/RCFServer5/ondemand/JNGLCRSAMLDCNSCNFSDSLV.mp4$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]TESTE[/B][/COLOR]</link>
 
-<link>http://tapetes.cf:8080/d/RedeCanais/RedeCanais/RCFServer5/ondemand/JNGLCRSAMLDCNSCNFSDSLV.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedoFilmeMP4 - DUB[/B][/COLOR]</link>
-<link>https://m3u9.cf/RedeCanais/RedeCanais/RCFServer5/ondemand/JNGLCRSAMLDCNSCNFSDSLV/JNGLCRSAMLDCNSCNFSDSLV.m3u8$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedoFilmeM3U8 - DUB[/B][/COLOR]</link>
+<link>http://tapetes.cf:8080/d/RedeCanais/RedeCanais/RCFServer5/ondemand/JNGLCRSAMLDCNSCNFSDSLV.mp4$nome=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedoFilmeMP4 - DUB[/B][/COLOR]</link>
+<link>https://m3u9.cf/RedeCanais/RedeCanais/RCFServer5/ondemand/JNGLCRSAMLDCNSCNFSDSLV/JNGLCRSAMLDCNSCNFSDSLV.m3u8$nome=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedoFilmeM3U8 - DUB[/B][/COLOR]</link>
 
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iZf0KyrE25z1sage4SYFLCCrMi9.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/2WgieNR1tGHlpJUsolbVzbUbE1O.jpg</fanart>
